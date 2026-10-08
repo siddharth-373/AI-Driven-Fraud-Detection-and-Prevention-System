@@ -4,7 +4,7 @@
 A high-performance, machine-learning-powered financial fraud screening and intelligence platform with real-time risk classification, explainable AI (SHAP), behavioural transaction profiling, graph network intelligence, simulated customer checkout, and fraud analyst case management.
 
 - **Live Website**: [https://ai-driven-fraud-detection-and-prevention-system.vercel.app](https://ai-driven-fraud-detection-and-prevention-system.vercel.app)
-- **GitHub Repository**: [https://github.com/utkarshkushwaha159/AI-Driven-Fraud-Detection-and-Prevention-System](https://github.com/utkarshkushwaha159/AI-Driven-Fraud-Detection-and-Prevention-System)
+- **GitHub Repository**: [https://github.com/siddharth-373/AI-Driven-Fraud-Detection-and-Prevention-System](https://github.com/siddharth-373/AI-Driven-Fraud-Detection-and-Prevention-System)
 
 ---
 
@@ -241,3 +241,11 @@ The web application will open at `http://localhost:5173`.
 ## 8. Simulated Environment Notice
 
 This platform is a prototype built for fraud detection demonstration, security operations research, and algorithmic analysis. It simulates payment gateway transactions and does not process real fiat currency or connect to live interbank settlement networks.
+
+---
+
+## 9. Author & Maintainer
+
+- **GitHub Profile**: [@siddharth-373](https://github.com/siddharth-373)
+- **Repository**: [AI-Driven-Fraud-Detection-and-Prevention-System](https://github.com/siddharth-373/AI-Driven-Fraud-Detection-and-Prevention-System)
+
